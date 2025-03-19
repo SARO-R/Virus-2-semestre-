@@ -1,0 +1,1 @@
+del D:\COLEGIO\Universidad\eticadelhacker\pruebas\*.*
