@@ -1,0 +1,3 @@
+:pag
+start
+goto pag
